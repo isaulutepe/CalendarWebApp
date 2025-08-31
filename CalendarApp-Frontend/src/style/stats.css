@@ -1,0 +1,30 @@
+/* İstatistik kartları için özel stil */
+.stats-icon {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  margin: 0 auto;
+}
+
+/* Özel mor renk */
+.bg-purple {
+  background-color: #6f42c1;
+}
+.text-purple {
+  color: #6f42c1;
+}
+
+/* Grafik konteynerleri */
+.chart-container {
+  position: relative;
+  height: 300px;
+}
+
+/* Tablo stilleri */
+.table-hover tbody tr:hover {
+  background-color: rgba(var(--bs-primary-rgb), 0.1);
+}
