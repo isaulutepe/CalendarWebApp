@@ -88,11 +88,11 @@ Her DTO, veri transferi sırasında entity bağımlılığını azaltmak ve güv
 
 ## 🖼️ Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](ss/1.png)
-![Ekran Görüntüsü 2](ss/2.png)
-![Ekran Görüntüsü 3](ss/3.png)
-![Ekran Görüntüsü 4](ss/4.png)
-![Ekran Görüntüsü 5](ss/5.png)
+![Ekran Görüntüsü 1](SS/1.png)
+![Ekran Görüntüsü 2](SS/2.png)
+![Ekran Görüntüsü 3](SS/3.png)
+![Ekran Görüntüsü 4](SS/4.png)
+![Ekran Görüntüsü 5](SS/5.png)
 
 
 
