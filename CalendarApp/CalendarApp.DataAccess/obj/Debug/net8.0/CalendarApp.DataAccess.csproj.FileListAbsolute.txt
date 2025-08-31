@@ -1,0 +1,17 @@
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\bin\Debug\net8.0\CalendarApp.DataAccess.deps.json
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\bin\Debug\net8.0\CalendarApp.DataAccess.runtimeconfig.json
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\bin\Debug\net8.0\CalendarApp.DataAccess.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\bin\Debug\net8.0\CalendarApp.DataAccess.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\bin\Debug\net8.0\CalendarApp.Entities.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\bin\Debug\net8.0\CalendarApp.Entities.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.csproj.AssemblyReference.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.AssemblyInfoInputs.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.AssemblyInfo.cs
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\Calendar.6F1A1175.Up2Date
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\refint\CalendarApp.DataAccess.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\CalendarApp.DataAccess.genruntimeconfig.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.DataAccess\obj\Debug\net8.0\ref\CalendarApp.DataAccess.dll

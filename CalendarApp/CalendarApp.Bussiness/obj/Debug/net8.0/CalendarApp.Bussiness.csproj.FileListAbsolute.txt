@@ -1,0 +1,17 @@
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.Bussiness.deps.json
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.Bussiness.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.Bussiness.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.DataAccess.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.Entities.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.DataAccess.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\bin\Debug\net8.0\CalendarApp.Entities.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.csproj.AssemblyReference.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.AssemblyInfoInputs.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.AssemblyInfo.cs
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.csproj.CoreCompileInputs.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\Calendar.6B4230D3.Up2Date
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\refint\CalendarApp.Bussiness.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\CalendarApp.Bussiness.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.Bussiness\obj\Debug\net8.0\ref\CalendarApp.Bussiness.dll

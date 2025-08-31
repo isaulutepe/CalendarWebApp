@@ -1,0 +1,12 @@
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\bin\Debug\net8.0\CalendarApp.Entities.deps.json
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\bin\Debug\net8.0\CalendarApp.Entities.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\bin\Debug\net8.0\CalendarApp.Entities.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.csproj.AssemblyReference.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.AssemblyInfoInputs.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.AssemblyInfo.cs
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.csproj.CoreCompileInputs.cache
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\refint\CalendarApp.Entities.dll
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\CalendarApp.Entities.pdb
+D:\SON STAJ\2\CalendarApp\CalendarApp.Entities\obj\Debug\net8.0\ref\CalendarApp.Entities.dll
