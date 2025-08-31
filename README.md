@@ -88,12 +88,9 @@ Her DTO, veri transferi sırasında entity bağımlılığını azaltmak ve güv
 
 ## 🖼️ Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](https://github.com/user-attachments/assets/9d53e5fa-610f-4aa7-a9a6-d1166eb8413f)
-![Ekran Görüntüsü 2](https://github.com/user-attachments/assets/90e1a766-b48f-4153-9623-15328b434625)
-![Ekran Görüntüsü 3](https://github.com/user-attachments/assets/3c298bd8-7d08-43ea-b5cd-cdf2e0efad5c)
-![Ekran Görüntüsü 4](https://github.com/user-attachments/assets/bb35bd71-ed93-4f44-bce2-f767ebc5eb53)
-![Ekran Görüntüsü 5](https://github.com/user-attachments/assets/d48e9b3a-025f-4599-aefc-3fabccfc6f58)
-
-
-
+![Ekran Görüntüsü 1](https://github.com/user-attachments/assets/382b7f9e-1e77-4819-a44e-b0eb134f4b18)
+![Ekran Görüntüsü 2](https://github.com/user-attachments/assets/73b3c480-86b7-4cbc-b2a9-8e64ab6373fb)
+![Ekran Görüntüsü 3](https://github.com/user-attachments/assets/9d8ed295-537b-48db-bb7a-cb57701c121e)
+![Ekran Görüntüsü 4](https://github.com/user-attachments/assets/1f824872-d2fe-4112-b701-5baa7126b14d)
+![Ekran Görüntüsü 5](https://github.com/user-attachments/assets/ad324456-20c1-4f95-89d4-ea6662e80e10)
 
